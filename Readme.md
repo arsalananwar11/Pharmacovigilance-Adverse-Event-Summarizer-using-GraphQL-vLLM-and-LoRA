@@ -13,9 +13,6 @@
 | *(Optional)* **UI** | Simple Streamlit demo to explore top signals | Streamlit |
 
 
-
-
 ## Why this matters
-
 Manual pharmacovigilance is drowning in unstructured, inconsistent text.  
 This MVP automatically **cleans, codes, scores and summarises** reports so safety scientists and regulators spot true safety signals earlier—protecting patients while reducing human triage load.
